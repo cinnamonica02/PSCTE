@@ -1,0 +1,99 @@
+INFO:root:this is my line of execution
+INFO:root:this is my line of execution
+ERROR:root:this is my error
+INFO:root:this is my line of execution
+ERROR:root:this is my error
+CRITICAL:root:this is my critical
+WARNING:root:this is a warning
+INFO:root:this is my line of execution
+ERROR:root:this is my error
+CRITICAL:root:this is my critical
+WARNING:root:this is a warning
+INFO:root:this is my line of execution
+ERROR:root:this is my error
+CRITICAL:root:this is my critical
+WARNING:root:this is a warning
+INFO:root:this is my line of execution
+ERROR:root:this is my error
+CRITICAL:root:this is my critical
+WARNING:root:this is a warning
+INFO:root:This is my info log
+WARNING:root:This is my warning
+INFO:root:this is my line of execution
+ERROR:root:this is my error
+CRITICAL:root:this is my critical
+WARNING:root:this is a warning
+INFO:root:This is my info log
+WARNING:root:This is my warning
+INFO:root:this is my line of execution
+ERROR:root:this is my error
+CRITICAL:root:this is my critical
+WARNING:root:this is a warning
+INFO:root:This is my info log
+WARNING:root:This is my warning
+INFO:root:this is my line of execution
+ERROR:root:this is my error
+CRITICAL:root:this is my critical
+WARNING:root:this is a warning
+INFO:root:This is my info log
+WARNING:root:This is my warning
+INFO:root:this is my line of execution
+ERROR:root:this is my error
+CRITICAL:root:this is my critical
+WARNING:root:this is a warning
+INFO:root:This is my info log
+WARNING:root:This is my warning
+INFO:root:this is my line of execution
+ERROR:root:this is my error
+CRITICAL:root:this is my critical
+WARNING:root:this is a warning
+INFO:root:This is my info log
+WARNING:root:This is my warning
+INFO:root:this is the start of my first for loop [1, 2, 3, 4, [5, 6, 7, 8], 'KS']
+INFO:root:this is the value of i  Im logging 1
+INFO:root:this is the start of my first for loop [1, 2, 3, 4, [5, 6, 7, 8], 'KS']
+INFO:root:this is the value of i  Im logging 2
+INFO:root:this is the start of my first for loop [1, 2, 3, 4, [5, 6, 7, 8], 'KS']
+INFO:root:this is the value of i  Im logging 3
+INFO:root:this is the start of my first for loop [1, 2, 3, 4, [5, 6, 7, 8], 'KS']
+INFO:root:this is the value of i  Im logging 4
+INFO:root:this is the start of my first for loop [1, 2, 3, 4, [5, 6, 7, 8], 'KS']
+INFO:root:this is the value of i  Im logging [5, 6, 7, 8]
+INFO:root:this is the start of my first for loop [1, 2, 3, 4, [5, 6, 7, 8], 'KS']
+INFO:root:this is the value of i  Im logging KS
+INFO:root:this is my line of execution
+ERROR:root:this is my error
+CRITICAL:root:this is my critical
+WARNING:root:this is a warning
+INFO:root:This is my info log
+WARNING:root:This is my warning
+INFO:root:this is the start of my first for loop [1, 2, 3, 4, [5, 6, 7, 8], 'KS']
+INFO:root:this is the value of i  Im logging 1
+INFO:root:this is the start of my first for loop [1, 2, 3, 4, [5, 6, 7, 8], 'KS']
+INFO:root:this is the value of i  Im logging 2
+INFO:root:this is the start of my first for loop [1, 2, 3, 4, [5, 6, 7, 8], 'KS']
+INFO:root:this is the value of i  Im logging 3
+INFO:root:this is the start of my first for loop [1, 2, 3, 4, [5, 6, 7, 8], 'KS']
+INFO:root:this is the value of i  Im logging 4
+INFO:root:this is the start of my first for loop [1, 2, 3, 4, [5, 6, 7, 8], 'KS']
+INFO:root:this is the value of i  Im logging [5, 6, 7, 8]
+INFO:root:this is the start of my first for loop [1, 2, 3, 4, [5, 6, 7, 8], 'KS']
+INFO:root:this is the value of i  Im logging KS
+INFO:root:this is my line of execution
+ERROR:root:this is my error
+CRITICAL:root:this is my critical
+WARNING:root:this is a warning
+INFO:root:This is my info log
+WARNING:root:This is my warning
+INFO:root:this is the start of my first for loop [1, 2, 3, 4, [5, 6, 7, 8], 'KS']
+INFO:root:this is the value of i  Im logging 1
+INFO:root:this is the start of my first for loop [1, 2, 3, 4, [5, 6, 7, 8], 'KS']
+INFO:root:this is the value of i  Im logging 2
+INFO:root:this is the start of my first for loop [1, 2, 3, 4, [5, 6, 7, 8], 'KS']
+INFO:root:this is the value of i  Im logging 3
+INFO:root:this is the start of my first for loop [1, 2, 3, 4, [5, 6, 7, 8], 'KS']
+INFO:root:this is the value of i  Im logging 4
+INFO:root:this is the start of my first for loop [1, 2, 3, 4, [5, 6, 7, 8], 'KS']
+INFO:root:this is the value of i  Im logging [5, 6, 7, 8]
+INFO:root:this is the start of my first for loop [1, 2, 3, 4, [5, 6, 7, 8], 'KS']
+INFO:root:this is the value of i  Im logging KS

@@ -1,0 +1,6 @@
+2023-07-23 17:16:49,949 - ERROR - ZeroDivisionError
+Traceback (most recent call last):
+  File "c:\Users\Maria Guevara\Desktop\LoggingDebbuging-recap\file.py", line 12, in <module>
+    1/0
+ZeroDivisionError: division by zero
+2023-07-23 17:16:49,950 - INFO - test the custom logger
